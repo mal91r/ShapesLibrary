@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a135b6b-e5b4-48a0-a562-3acda11eb6eb": {
+      "ProjectGuid": "5a135b6b-e5b4-48a0-a562-3acda11eb6eb",
+      "DisplayName": "LibaShapeSquare",
+      "ColorIndex": 0
+    },
+    "9b886248-63cd-41e0-a1f1-d5fc41bddf95": {
+      "ProjectGuid": "9b886248-63cd-41e0-a1f1-d5fc41bddf95",
+      "DisplayName": "ShapesLibrary",
+      "ColorIndex": 1
+    },
+    "3deb4c05-2d20-43e8-8b69-33fd81572cc1": {
+      "ProjectGuid": "3deb4c05-2d20-43e8-8b69-33fd81572cc1",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 2
+    },
+    "0addc992-f994-4657-b271-d7f083ef3126": {
+      "ProjectGuid": "0addc992-f994-4657-b271-d7f083ef3126",
+      "DisplayName": "ShapesLibraryTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

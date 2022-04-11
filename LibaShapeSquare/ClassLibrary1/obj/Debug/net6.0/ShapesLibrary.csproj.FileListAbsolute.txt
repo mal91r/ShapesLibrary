@@ -1,0 +1,11 @@
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\bin\Debug\net6.0\ShapesLibrary.deps.json
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\bin\Debug\net6.0\ShapesLibrary.dll
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\bin\Debug\net6.0\ref\ShapesLibrary.dll
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\bin\Debug\net6.0\ShapesLibrary.pdb
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.AssemblyInfoInputs.cache
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.AssemblyInfo.cs
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.dll
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ref\ShapesLibrary.dll
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.pdb

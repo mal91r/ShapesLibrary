@@ -1,0 +1,15 @@
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\LibaShapeSquare.exe
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\LibaShapeSquare.deps.json
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\LibaShapeSquare.runtimeconfig.json
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\LibaShapeSquare.dll
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\ref\LibaShapeSquare.dll
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\bin\Debug\net6.0\LibaShapeSquare.pdb
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.csproj.AssemblyReference.cache
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.AssemblyInfoInputs.cache
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.AssemblyInfo.cs
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.csproj.CoreCompileInputs.cache
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.dll
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\ref\LibaShapeSquare.dll
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.pdb
+D:\C#\hh.ru\LibaShapeSquare\LibaShapeSquare\obj\Debug\net6.0\LibaShapeSquare.genruntimeconfig.cache
