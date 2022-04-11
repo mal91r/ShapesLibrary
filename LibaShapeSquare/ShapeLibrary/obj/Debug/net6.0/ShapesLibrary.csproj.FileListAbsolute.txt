@@ -9,3 +9,4 @@ D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.csproj.
 D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.dll
 D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ref\ShapesLibrary.dll
 D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.pdb
+D:\C#\hh.ru\LibaShapeSquare\ClassLibrary1\obj\Debug\net6.0\ShapesLibrary.csproj.AssemblyReference.cache
